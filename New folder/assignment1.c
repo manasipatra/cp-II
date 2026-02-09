@@ -1,0 +1,4 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                  //wap to to replace spaces in a string with hyphens
+																																																																																																								  #include<stdio.h>
+																																																																																																								  #inclue<string.h>
+																																																																																																								                                                                                                                                                   #
